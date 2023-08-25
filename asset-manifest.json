@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/phoenix_company/static/css/main.073c9b0a.css",
+    "main.js": "/phoenix_company/static/js/main.910f2dd7.js",
+    "static/js/787.268992ea.chunk.js": "/phoenix_company/static/js/787.268992ea.chunk.js",
+    "index.html": "/phoenix_company/index.html",
+    "main.073c9b0a.css.map": "/phoenix_company/static/css/main.073c9b0a.css.map",
+    "main.910f2dd7.js.map": "/phoenix_company/static/js/main.910f2dd7.js.map",
+    "787.268992ea.chunk.js.map": "/phoenix_company/static/js/787.268992ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.910f2dd7.js"
+  ]
+}
